@@ -40,7 +40,14 @@ The **format** is like this :
 
 ## Sample Output
 
-The sample output of the picture will be like this :
+The sample output of the picture will be like this : 
+
+![](https://raw.githubusercontent.com/ArighnaIITG/opencv_dnn_yolo/master/object-detection.jpg)
+
+## Future Work :
+
+In this post, we looked at how to use OpenCV dnn module with pre-trained YOLO model to do object detection. We can also train a model to detect objects of our own interest that are not covered in the pre-trained one.
+There is a lot more to object detection, including using other frameworks like **Faster R-CNN** and **SSD**.
 
 
 
